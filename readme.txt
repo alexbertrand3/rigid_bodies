@@ -11,6 +11,8 @@ to run, from directory with the code:
 or possibly:
 > python3 main.py
 
+Yes, the stutters are expected; your computer is fine. Also, the floors are extra bouncy - the objects just love to dance.
+
 key binds:
 play/pause: space
 toggle gravity: g
