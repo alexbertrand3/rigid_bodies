@@ -1,4 +1,4 @@
-# By [REDACTED]
+# By Alex Bertrand
 # COMP 559 Final Project - Rigid Bodies
 # Based on "Nonconvex Rigid Bodies with Stacking" by Guendelman, Bridson, and Fedkiw (2003)
 
