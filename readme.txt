@@ -4,8 +4,12 @@ requirements:
 (install with pip)
 > pip install pyquaternion
 > pip install taichi
->
 
+to run, from directory with the code:
+> python main.py
+
+or possibly:
+> python3 main.py
 
 key binds:
 play/pause: space
